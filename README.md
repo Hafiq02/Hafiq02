@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Hafiq02/Hafiq02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![MasterHead](https:https://hotcore.info/act/kareff-101579.html)
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm WanAmirul Hafiq Bin Wan Huzaini</h1>
 <h3 align="center">A passionate Student from Universiti Teknologi Malaysia</h3>
-
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafiq02&label=Profile%20views&color=0e75b6&style=flat" alt="hafiq02" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning and Data mining projects using Python**
