@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **hafiqhuzaini@gmail.com**
 
-- ⚡ Fun fact ** I am Batman **
+- ⚡ Fun fact ** I'm such a computer science enthusiast that I once spent an entire weekend debugging a code issue, only to realize it was a missing semicolon. That tiny piece of punctuation held me hostage, but I emerged victorious in the end!  p/s I am Batman **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
