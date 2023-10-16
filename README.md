@@ -15,16 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![MasterHead](https://img.devrant.com/devrant/rant/r_2134906_zD4fu.jpg)
-<h1 align="center">Hi 👋, I'm WanAmirul Hafiq Bin Wan Huzaini</h1>
+<h1 align="center">Hi 👋, I'm WanAmirul Hafiq </h1>
 <h3 align="center">A passionate Student from Universiti Teknologi Malaysia</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafiq02&label=Profile%20views&color=0e75b6&style=flat" alt="hafiq02" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning and Data mining projects using Python**
+- 🔭 I’m   **a dedicated lifelong learner**
+
+- 🌱 I’m currently learning  **Machine Learning and Data mining projects using Python**
 
 - 📫 How to reach me **hafiqhuzaini@gmail.com**
 
-- ⚡ Fun fact **I am Fun**
+- ⚡ Fun fact ** I am Batman **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
